@@ -860,7 +860,7 @@ let allTimes = [78,219,290,458,700,765,953,1200,1260,1491,1652,1689,1817,1864,19
 
 let myFont;
 function preload() {
-  myFont = loadFont('http://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.ttf');
+  myFont = loadFont('https://db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.ttf');
   speakers[0].photo = loadImage('assets/images/Cook.png');
   speakers[1].photo = loadImage('assets/images/Brochers.png');
   speakers[2].photo = loadImage('assets/images/Wilkes.png');
