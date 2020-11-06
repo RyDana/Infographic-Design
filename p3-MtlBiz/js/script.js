@@ -8,16 +8,16 @@ let data = {
   }
 }
 function setup() {
-  createCanvas (1300,2100);
+  createCanvas (1300,2050);
   noStroke();
   background(15,15,20);
 
-  // for(let i = 0; i <1000000; i++){
-  //   push();
-  //   fill(random(0,15), random(0,15), random(0,25));
-  //   ellipse(random(0,width),random(0,height), 5);
-  //   pop();
-  // }
+  for(let i = 0; i <1000000; i++){
+    push();
+    fill(random(0,15), random(0,15), random(0,25));
+    ellipse(random(0,width),random(0,height), 5);
+    pop();
+  }
 
   fill(255);
   let startAtMonth = 20;
