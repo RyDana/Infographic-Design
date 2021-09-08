@@ -1,4 +1,4 @@
-# Cart433-Project2
+# Project2
 
 Project consisted of analyzing the YouTube Video of Apple's iPhone 12 event.
 
