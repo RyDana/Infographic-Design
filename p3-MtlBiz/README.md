@@ -1,3 +1,3 @@
-# Template p5 project
+Businesses in montreal
 
-This is the README file for the entire project. For more official projects you should write information here about the nature of the project, your name, any special explanations of how the project works, etc.
+Infographic illustrating the impact of the covid pandemic on the number of open businesses in Montreal.
